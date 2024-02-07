@@ -26,13 +26,7 @@ const Header = () => {
       <section className="text-white bg-[#12433d] h-[100px] flex items-center">
         <div className="flex justify-between items-center m-auto w-7/12">
           <figure className="flex flex-row flex-grow gap-4 items-center px-4">
-            <img
-              src="https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-1/224579316_108777368168962_5768189933402983562_n.png?stp=dst-png_p200x200&_nc_cat=102&ccb=1-7&_nc_sid=596444&_nc_ohc=O29tEMmbcnIAX-gVbxQ&_nc_ht=scontent.fhan14-4.fna&oh=00_AfCWlv9Ie-fdM6MTgnQxhtB5Fqe6LZWc_jlFCCVu00U-AQ&oe=657655C1"
-              alt="logo"
-              width="80px"
-              height="80px"
-            />
-            <figcaption>eLover</figcaption>
+            <img src="preelover.png" alt="logo" width="80px" height="80px" />
           </figure>
 
           <div className="flex relative flex-grow gap-12 items-center text-white">

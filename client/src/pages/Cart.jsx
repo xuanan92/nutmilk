@@ -1,4 +1,12 @@
 const Cart = () => {
+  // some: code cart feature for web
+  // add item to cart, local web store item
+  // database: product data structure, sale order data structure
+  // xem cart
+  // display content of chosen item in form - sale form
+  // confirm check out payment
+  // after checkout, switch to payment tab
+  // confimr then will switch to hoan tat tab
   return (
     <div>
       <div className="p-8 m-auto w-6/12 text-center">
